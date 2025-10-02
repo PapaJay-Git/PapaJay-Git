@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on building full-stack web apps with React, Express, and TypeScript.<br>🤝 I’m looking to collaborate on exciting projects that make people’s lives easier online.<br>👐 I’m looking for help with improving my open-source projects and writing better tests.<br>🌱 I’m currently learning advanced backend development and cloud deployment strategies.<br>💬 Ask me about web development, REST APIs, or how to start a project from scratch.<br>⚡ Fun fact: I love solving tough coding problems with coffee and lo-fi music ☕🎧.
+🔭 I’m currently working on building full-stack web apps with React, Express, and TypeScript.<br>
+🤝 I’m looking to collaborate on exciting projects that make people’s lives easier online.<br>
+👐 I’m looking for help with improving my open-source projects and writing better tests.<br>
+🌱 I’m currently learning advanced backend development, cloud deployment strategies, and how to scale complex applications.<br>
+💼 I also work as a team manager, leading a talented group of developers, designers, and testers to deliver impactful and high-quality products.<br>
+🚀 I’m currently developing and integrating various features for a hosting platform — connecting tools like Stripe, HubSpot, Shopify, Pusher.js, ClickUp, and Hostaway from the ground up.<br>
+💬 Ask me about web development, REST APIs, system architecture, or how to kickstart a full project from scratch.<br>
+⚡ Fun fact: I love solving tough coding problems with coffee ☕, lo-fi beats 🎧, and a clean, efficient workflow.<br>
 
 
 ## 🌐 Socials:
