@@ -2,7 +2,7 @@
 
 Full stack engineer and technical lead. For the past two years I built **The Host Desk**, a short-term-rental operations SaaS, from its first commit into a production marketplace, and led the team behind it.
 
-**Portfolio and writing → [cainglet.vercel.app](https://cainglet.vercel.app)**
+**Portfolio and writing → [cainglet.vercel.app](https://cainglet.vercel.app)** · source: [PapaJay-Git/portfolio](https://github.com/PapaJay-Git/portfolio)
 
 ### What I've built
 
